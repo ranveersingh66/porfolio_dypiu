@@ -1,0 +1,121 @@
+.navbutton1{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: white;
+
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+
+  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.25);
+  margin-right: 10px;
+}
+
+.navbutton2{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: white;
+
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+
+  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.25);
+  margin-right: 10px;
+}
+
+.navbutton3{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: white;
+
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+
+  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.25);
+  margin-right: 10px;
+}
+
+.navbutton4{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: white;
+
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+
+  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.25);
+  margin-right: 10px;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.projects {
+    border: 1px solid #ddd;     
+    padding: 20px;             
+    margin-bottom: 20px;        
+    border-radius: 10px;        
+    background-color: white;    
+}
+
+.intro {
+    border: 1px solid #ddd;     
+    padding: 20px;             
+    margin-bottom: 20px;        
+    border-radius: 10px;        
+    background-color: white; 
+}
+
+.education {
+    border: 1px solid #ddd;     
+    padding: 20px;             
+    margin-bottom: 20px;        
+    border-radius: 10px;        
+    background-color: white; 
+}
+
+.skills {
+    border: 1px solid #ddd;     
+    padding: 20px;             
+    margin-bottom: 20px;        
+    border-radius: 10px;        
+    background-color: white; 
+}
+
+.connect {
+    border: 1px solid #ddd;     
+    padding: 20px;             
+    margin-bottom: 20px;        
+    border-radius: 10px;        
+    background-color: white; 
+}
