@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fff;
+  margin: 20px;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 25px;
+}
+td, th {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 6px 4px;
+  font-size: 13px;
+  vertical-align: middle;
+}
+th {
+  background: #fff;
+  font-weight: bold;
+}
+.time-col {
+  font-weight: bold;
+  width: 90px;
+}
+.library { background: #33e6ff; }
+.sports  { background: #33e6ff; }
+.office  { background: #ffff33; }
+.lunch   { background: #ffff33; }
+.fwt     { background: #d2691e; color: #fff; }
+.bee     { background: #556b2f; color: #fff; }
+.beefwtpp{ background: #33cc33; }
+.acm     { background: #4a6fa5; color: #fff; }
+.pp      { background: #808080; color: #fff; }
+.coa     { background: #e8a3a3; }
+.empty   { background: #fff; }
+
+.code-acm { background:#4a6fa5; color:#fff; font-weight:bold; }
+.code-bee { background:#556b2f; color:#fff; font-weight:bold; }
+.code-coa { background:#e8a3a3; font-weight:bold; }
+.code-fwt { background:#d2691e; color:#fff; font-weight:bold; }
+.code-pp  { background:#808080; color:#fff; font-weight:bold; }
+.code-iks { background:#9acd32; font-weight:bold; }
+
+.subj-row td:first-child { font-weight:bold; }
+
+.text-left {
+  text-align: left;
+  padding-left: 15px;
+}
